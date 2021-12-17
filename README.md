@@ -14,7 +14,8 @@ Hello, I'm Vikash Kumar
 
 ## ☎️ CONTACT ME
 
-https://www.linkedin.com/in/vikash-kumar-20897221b/
+<a href="https://www.linkedin.com/in/vikash-kumar-20897221b/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="Vikash Kumar" height="30" width="40" /></a>
+
 
 
 <br />
