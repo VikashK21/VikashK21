@@ -9,7 +9,7 @@ Hello, I'm Vikash Kumar
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>Vikash Kumar is a Fresher Web Developer, have knowledge of front-end(React js and Javascript) to back-end(Node Js, Express Js and PostgreSQL).</p>
+<p>Vikash Kumar is a Fresher Web Developer, have knowledge of front-end(React js, Javascript, HTML and CSS) to back-end(Node Js, Express Js, MySql, MongoDB and React Js).</p>
 
 
 ## ☎️ CONTACT ME
