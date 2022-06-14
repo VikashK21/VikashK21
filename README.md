@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=VikashK21&label=Profile%20views&color=0e75b6&style=flat" alt="VikashK21" /> </p>
+<!-- <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=VikashK21&label=Profile%20views&color=0e75b6&style=flat" alt="VikashK21" /> </p> -->
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -12,7 +12,7 @@
 
 ✔ Known as: ***Vikash Kumar*** <br>
 ✔ 🔭 I’m currently learning Software Developer Courses.<br>
-✔ 🌱 But my learning is near to **everything 🤣**<br>
+✔ 🌱 But my learning is near to **everything 😃**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/VikashK21](https://github.com/VikashK21)<br>
 ✔ Ask from me anything you want, If I am alive I will definitely answer 😉<br>
 ✔ Fun fact : *I Always try to learn something new and I make the day new for me, for the past.* 😎<br><br><br><br>
