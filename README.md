@@ -109,7 +109,7 @@
       <a target="_blank" href="https://blackboxnow.com">
         <img src="https://blackboxnow.com/static/media/blackbox-logo-01.86234ed62aef14383960.png" width="40"/>
       </a>
-      <br>BlackBox - Teach and Learn
+      <br>BlackBox 
 	</td>
   </tr>
 </table>
