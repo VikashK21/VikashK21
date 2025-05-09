@@ -10,7 +10,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-✔ I'm ***Vikash Kumar*** known as ***Vikas*** 🤠 <br>
+✔ My name is ***Vikash Kumar*** and known as ***Vikas*** 🤠 <br>
 ✔ 🔭 I'm currently in a phase of working as a Software Engineer.<br>
 ✔ 🌱 But my learning is near to **everything 😄**<br>
 ✔ 👨‍💻 All of my projects are available at [VikashK21](https://github.com/VikashK21?tab=repositories)<br>
